@@ -1,21 +1,23 @@
 [
   {
-    label: 'about me',
-    icon: 'user',
-    name: 'about',
-    color: '#ff0000',
-    bg: 'rgba(0, 0, 255,.1)'
-  },{
-    label: 'about me',
-    icon: 'user',
-    name: 'about',
-    color: '#00ffff',
-    bg: 'rgba(0, 255, 0,.2)'
-  },{
-    label: 'about me',
-    icon: 'user',
-    name: 'about',
-    color: '#123456',
-    bg: 'rgba(255, 0, 0,.3)'
+    "label": "about me",
+    "icon": "user",
+    "name": "about",
+    "color": "#ff0000",
+    "bg": "rgba(0, 0, 255,.1)"
+  },
+  {
+    "label": "about me",
+    "icon": "user",
+    "name": "about",
+    "color": "#00ffff",
+    "bg": "rgba(0, 255, 0,.2)"
+  },
+  {
+    "label": "about me",
+    "icon": "user",
+    "name": "about",
+    "color": "#123456",
+    "bg": "rgba(255, 0, 0,.3)"
   }
 ]
